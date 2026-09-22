@@ -174,3 +174,7 @@ The application was validated through the following workflow:
 -Flask connected to Amazon RDS MySQL.
 -Feedback was successfully stored in the feedback table.
 -SQL queries were used to verify the stored records
+
+## Architecture Diagram
+
+![AWS 3-Tier Architecture](Architecture/architecture-diagram.png)
