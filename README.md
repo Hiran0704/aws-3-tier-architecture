@@ -177,4 +177,4 @@ The application was validated through the following workflow:
 
 ## Architecture Diagram
 
-![AWS 3-Tier Architecture](Architecture/architecture-diagram.png)
+Architecture/AWS-3TIER-ARCHITECTURE.drawio.png
